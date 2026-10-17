@@ -1,0 +1,9 @@
+วิธีติดตั้ง Thai Check News บน Chrome หรือ Microsoft Edge
+
+1. แตกไฟล์ thai-check-news-extension-v0.4.zip ก่อน
+2. เปิด chrome://extensions หรือ edge://extensions
+3. เปิดโหมดนักพัฒนา (Developer mode)
+4. กด Load unpacked / โหลดส่วนขยายที่คลายแพ็กแล้ว
+5. เลือกโฟลเดอร์ thai-check-news-extension ทั้งโฟลเดอร์
+
+หน้าต่าง Load unpacked จะแสดงเฉพาะโฟลเดอร์ จึงจะไม่แสดงไฟล์ ZIP ให้เลือก

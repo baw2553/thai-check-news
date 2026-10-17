@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Thai Check News",
+  "version": "0.6.0",
+  "description": "ส่งข้อความและ URL ข่าวต้นทางไปเทียบกับหลักฐานจากหลายแหล่ง พร้อมแจ้งเมื่ออ่านเนื้อหาไม่ได้",
+  "permissions": ["contextMenus", "activeTab", "scripting", "storage"],
+  "background": { "service_worker": "background.js" },
+  "action": {
+    "default_title": "Thai Check News",
+    "default_popup": "popup.html"
+  }
+}
